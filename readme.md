@@ -9,3 +9,19 @@ Groups of: 1 (Individual) <br>
 Duration: October 2021 - December 2021 <br>
 
 <h2> Assignment description </h2>
+<b> Assignment 1: </b>
+
+<br>
+<b> Assignment 2: </b>
+
+<br>
+<b> Assignment 3: </b>
+
+<br>
+<b> Assignment 4: </b>
+
+<br>
+<b> Bonus Lab: </b>
+
+<br>
+
