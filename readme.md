@@ -25,3 +25,18 @@ Created the game Hop-n-Win
 Solved Pascal's Triangle using Parallelisation
 <br>
 
+<h2> Concepts Used: </h2>
+<ul>
+<li> Abstraction
+<li> Encapsulation
+<li> Polymorphism
+<li> Interfaces
+<li> Inheritence
+<li> Method Overloading
+<li> Method Overriding
+<li> Exception Handling
+<li> Object Cloning
+<li> Generic Programming
+<li> Parallelisation
+<li> Thread Pool
+</ul>
