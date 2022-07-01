@@ -10,18 +10,18 @@ Duration: October 2021 - December 2021 <br>
 
 <h2> Assignment description </h2>
 <b> Assignment 1: </b>
-
+Created a Vaccine Booking portal like CoWin
 <br>
 <b> Assignment 2: </b>
-
+Created a CLI version of Google Classroom
 <br>
 <b> Assignment 3: </b>
-
+Created a modified version of the game Snakes and Ladders
 <br>
 <b> Assignment 4: </b>
-
+Created the game Hop-n-Win
 <br>
 <b> Bonus Lab: </b>
-
+Solved Pascal's Triangle using Parallelisation
 <br>
 
