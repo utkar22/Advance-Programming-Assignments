@@ -1,4 +1,4 @@
-Repositories containing all the assignments and bonus lab done in Advance Programming course in Semester 3 (September - December 2021)
+Repository containing all the assignments and bonus lab done in Advance Programming course in Semester 3 (September - December 2021)
 
 <h2> Details </h2>
 Course: Advance Programming <br>
